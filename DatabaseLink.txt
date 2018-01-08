@@ -1,0 +1,5 @@
+http://mlearn.ics.uci.edu/databases/heart-disease/
+
+http://www.saedsayad.com/artificial_neural_network_rbf.htm
+
+http://outlace.com/Beginner-Tutorial-Backpropagation/

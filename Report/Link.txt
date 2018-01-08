@@ -1,0 +1,13 @@
+http://stackoverflow.com/questions/27669769/matlab-plotting-pca-analysis
+
+https://www.dtreg.com/solution/view/25
+
+http://www.saedsayad.com/artificial_neural_network_rbf.htm
+
+http://users.ics.aalto.fi/harri/thesis/valpola_thesis/node34.html
+
+http://www.itl.nist.gov/div898/handbook/pmc/section5/pmc551.htm
+
+http://neuralnetworksanddeeplearning.com/chap2.html
+
+http://outlace.com/Beginner-Tutorial-Backpropagation/
